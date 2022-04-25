@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201650503449",
+    "project_id": "cocorosbills",
+    "storage_bucket": "cocorosbills.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201650503449:android:c4f7c25f7b6e3d4bd00f88",
+        "android_client_info": {
+          "package_name": "com.example.cocorosbills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201650503449-l22l9tt43lk3fmlgv8nn7vqtol80aoko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKsGfiuIuH4xTrh4nif13ZRyfIylty2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201650503449-l22l9tt43lk3fmlgv8nn7vqtol80aoko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
